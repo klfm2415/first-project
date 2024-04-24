@@ -1,0 +1,50 @@
+h1 {
+    background-color: gold;
+    color: black;
+}
+
+div {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    color: black;
+    background-color: rgb(17, 223, 103);
+}
+
+.one {
+    color: black;
+    background-color: rgb(68, 175, 18);
+    text-align: center;
+    margin: 12px;
+    padding: 10px;
+}
+
+.two {
+    color: black;
+    background-color: rgb(149, 216, 26);
+    text-align: center;
+    margin: 12px;
+    padding: 10px;
+}
+
+.three {
+    color: black;
+    background-color: rgb(18, 175, 175);
+    text-align: center;
+    margin: 12px;
+    padding: 10px;
+}
+
+.four {
+    color: black;
+    background-color: rgb(207, 226, 34);
+    text-align: center;
+    margin: 12px;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    color: black;
+    background-color: azure;
+}
